@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/amrutam/static/css/main.99f6c1ed.css",
+    "main.js": "/amrutam/static/js/main.70721f80.js",
+    "static/js/453.8ab44547.chunk.js": "/amrutam/static/js/453.8ab44547.chunk.js",
+    "static/media/home4.jpeg": "/amrutam/static/media/home4.ef5e9d2c9511f3c220ba.jpeg",
+    "static/media/oil3.jpeg": "/amrutam/static/media/oil3.c5a3414a97d06c9da7e8.jpeg",
+    "static/media/oil1.jpeg": "/amrutam/static/media/oil1.83e99e3d607c7a9cab27.jpeg",
+    "static/media/bannerbg.png": "/amrutam/static/media/bannerbg.9e671260bbf6e68d6e19.png",
+    "static/media/oil2.png": "/amrutam/static/media/oil2.fdeb7349ad560cd44a54.png",
+    "static/media/p7.png": "/amrutam/static/media/p7.eb54c82e6dcd27a11922.png",
+    "static/media/muggu.png": "/amrutam/static/media/muggu.f3b5109409ff94798988.png",
+    "static/media/phone.png": "/amrutam/static/media/phone.b2f9efd1de8eba8c3c31.png",
+    "static/media/yogaman.png": "/amrutam/static/media/yogaman.21943b24b5e55a06ed26.png",
+    "static/media/c2.png": "/amrutam/static/media/c2.df725ee405d2181b313f.png",
+    "static/media/star.jpeg": "/amrutam/static/media/star.5f488f8bd658564cb723.jpeg",
+    "static/media/c5.png": "/amrutam/static/media/c5.735aebec35b3866815d5.png",
+    "static/media/c1.png": "/amrutam/static/media/c1.82812a4fc73c0715a141.png",
+    "static/media/c3.png": "/amrutam/static/media/c3.43b99e1e7ab1f5ea186d.png",
+    "static/media/person.png": "/amrutam/static/media/person.6dd394199820c08f7420.png",
+    "static/media/security.png": "/amrutam/static/media/security.100c304fb0f5ad5e988e.png",
+    "static/media/c4.png": "/amrutam/static/media/c4.315768def93a4978ce09.png",
+    "static/media/c6.png": "/amrutam/static/media/c6.e9773b5afc3d2e5cb3f2.png",
+    "static/media/tablets.png": "/amrutam/static/media/tablets.9d243ea66900b4f58705.png",
+    "static/media/play1.png": "/amrutam/static/media/play1.b8aa15ec4c3e089ed0ac.png",
+    "index.html": "/amrutam/index.html",
+    "main.99f6c1ed.css.map": "/amrutam/static/css/main.99f6c1ed.css.map",
+    "main.70721f80.js.map": "/amrutam/static/js/main.70721f80.js.map",
+    "453.8ab44547.chunk.js.map": "/amrutam/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f6c1ed.css",
+    "static/js/main.70721f80.js"
+  ]
+}
