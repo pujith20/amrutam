@@ -1,0 +1,125 @@
+.home-con-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px;
+}
+.home-con-2-main-text-con {
+  text-align: center;
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+}
+.home-con-2-main-text-con h1 {
+  line-height: 100px;
+}
+.home-con-2-main-text-con p {
+  width: 500px;
+}
+.home-con-2-align-con {
+  display: flex;
+}
+.home-con-2-align-con-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 650px;
+  margin-top: 2%;
+}
+.first-card {
+  margin-left: 20%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.right-card {
+  margin-right: 20px;
+}
+.home-con-2-card-con {
+  width: 300px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+}
+.home-con-2-card-con img {
+  height: 50px;
+  align-self: center;
+}
+.home-con-2-align-con-2 {
+  background-image: url("../assets/muggu.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 740px;
+  display: flex;
+}
+.home-con-2-align-con-2 img {
+  height: 1000px;
+  align-self: center;
+  margin-top: 10%;
+}
+.home-con-2-align-con-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 650px;
+  margin-top: 2%;
+}
+@media screen and (max-width: 500px) {
+  .home-con-2-cards-con-dev{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 800px) {
+  .home-con-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+  }
+  .home-con-2-align-con-dev {
+    background-image: url("../assets/muggu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    display: flex;
+    padding-bottom: 48px;
+  }
+  .home-con-2-align-con-2 img {
+    height: 1000px;
+    align-self: center;
+    margin-top: 10%;
+  }
+  .home-con-2-main-text-con {
+    text-align: center;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .home-con-2-main-text-con h1 {
+    font-size: 28px;
+  }
+  .home-con-2-main-text-con p{
+    font-size: 20px;
+  }
+  .home-con-2-align-con-dev img {
+    height: 1000px;
+    align-self: center;
+    margin-top: 1%;
+    margin-left: 2%;
+  }
+  .home-con-2-card-con{
+    display: flex;
+    margin: 24px;
+  }
+  .home-con-2-cards-con-dev{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

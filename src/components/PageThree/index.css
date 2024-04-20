@@ -1,0 +1,34 @@
+.home-con-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(#fff7e2,#fffaee);
+    padding-top: 64px;
+}
+.home-con-3-main-title{
+    color: #3a643b;
+}
+.home-con-3-cards-con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+    margin-top: 12px;
+}
+.card{
+    border-top: 5px solid #3a643b;
+    border-radius: 8px;
+    padding: 12px;
+    height: 250px;
+    color: #3a643b;
+    margin: 24px;
+}
+.card-img{
+    height: 250px;
+    border-radius: 8px;
+}
+.card h1{
+    font-size: 24px;
+    font-weight: 700;
+}

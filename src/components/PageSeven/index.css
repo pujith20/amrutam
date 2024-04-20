@@ -1,0 +1,106 @@
+.home-con-7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+  }
+  
+  .home-con-7 h4 {
+    color: #3a643b;
+  }
+  
+  .home-con-7-cards-con {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .home-con-7-cards-main-con {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home-con-7-card {
+    background-color: #fff7e2;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    margin: 24px;
+  }
+  
+  .profile-con img {
+    border-radius: 50%;
+  }
+  
+  .star-con {
+    display: flex;
+    background-color: black;
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .star-con p {
+    margin-top: 14px;
+  }
+  
+  .star-con img {
+    height: 20px;
+    align-self: center;
+  }
+  
+  .work-con img {
+    height: 25px;
+  }
+  .work-con{
+    display: flex;
+  }
+  .special-con{
+    display: flex;
+  }
+  
+  .special-con img {
+    height: 25px;
+  }
+  
+  .book-con {
+    background-color: green;
+  }
+  
+  
+  /* Existing CSS code */
+
+.dot-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .dot {
+    height: 10px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .active-dot {
+    background-color: #3a643b;
+  }
+  
+  .arrow{
+    border: 2px solid grey;
+    align-self: center;
+    border-radius: 50%;
+    padding: 24px;
+  }

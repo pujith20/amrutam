@@ -1,0 +1,24 @@
+.home-con-4{
+    background-image: url('../assets/home4.jpeg');
+    width: 100%;
+    padding: 100px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+@media screen and (max-width: 800px) {
+    .home-con-4{
+        background-image: url('../assets/home4.jpeg');
+        width: 100%;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        color: white;
+        padding: 64px;
+    }
+    .home-con-4 h1{
+        font-size: 24px;
+    }
+}

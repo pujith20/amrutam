@@ -1,0 +1,120 @@
+.app-con{
+    display: flex;
+    flex-direction: column;
+}
+.banner-con{
+    background-color: #fff7e2;
+    width: 100%;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+}
+.banner-text-con{
+    background-image: url('../assets/bannerbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+    padding: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.subtext{
+    font-family: 'Nexa Light';
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.text-con{
+    padding-top: 24px;
+    width: 800px;
+}
+.text-con p{
+    margin-top: 24px;
+}
+
+.banner-cards-con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 24px;
+}
+@media screen and (max-width: 800px) {
+    .banner-cards-con{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 24px;
+    }
+    .banner-text-con{
+        background-image: url('../assets/bannerbg.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+        height: 150vh;
+        width: 100%;
+        padding: 32px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .text-con{
+        padding-top: 24px;
+        width: 350px;
+    }
+    .banner-card{
+        display: flex;
+        color: #3a643b;
+        width: 220px;
+        margin-top: 24px;
+    }
+}
+.banner-card{
+    display: flex;
+    color: #3a643b;
+    width: 220px;
+}
+.banner-img-con{
+    border: 2px solid #3a643b;
+    background-color: white;
+    border-radius: 50%;
+    width: 90px;
+    height: 70px;
+    display: flex;
+    padding: 10px;
+}
+.banner-img-con img{
+    width: 40px;
+    height: 40px;
+    align-self: center;
+    margin-left: 3px;
+}
+.banner-card p{
+    align-self: center;
+    margin-left: 12px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    width: 230px;
+}
+.top p{
+    align-self: center;
+}
+.bars{
+    align-self: center;
+}
+.highlight{
+    text-decoration: underline;
+    color: #fff7e2;
+}
+.nav-btn{
+    background-color: #3a643b;
+    color: white;
+    padding: 14px;
+    border-radius: 12px;
+    font-size: 16px;
+}

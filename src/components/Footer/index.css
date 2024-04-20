@@ -1,0 +1,14 @@
+.last-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3a643b 18%;
+    padding: 64px;
+}
+.icon{
+    background-color: #3a643b;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+}
